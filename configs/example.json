@@ -1,0 +1,14 @@
+{
+  "apps": [
+ {
+      "Name": "Application Name In Registry",
+      "Installer": "Location the installer is at",
+      "Arguments": "arguments: /quiet or /qn for quiet installs, /x to uninstall"
+    },
+    {
+      "Name": "Example 2",
+      "Installer": "Installer location",
+      "Arguments": "/qn"
+    },
+  ]
+}
